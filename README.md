@@ -1,6 +1,7 @@
 # Graphic_Era
 
 This repository consists of these five projects :
+  
   Cartoonifier
   
   Digit Recognition
